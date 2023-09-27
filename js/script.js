@@ -50,3 +50,19 @@ alert('Yina has been living in SanDiego for ' + yearsLiving + ' years.')
 /*
 
 //STEP 7
+/*
+let boolValue = true
+let strValue = 'Good Morning!'
+let result1 = boolValue + strValue
+console.log(result1)
+let numberValue = 17
+let boolValue2 = true
+let result2 = numberValue + boolValue2
+console.log(result2)
+/*
+
+//STEP 8
+let someString = "Who once said, 'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'"
+console.log(someString)
+
+
