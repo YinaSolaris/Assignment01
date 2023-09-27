@@ -140,3 +140,39 @@ let sum = x + y
 console.log("The sum of", x, "and", y, "is", sum)
 /*
 
+//STEP 18
+/*
+let x = 20
+x += 20
+console.log("The result is:", x)
+/*
+
+//STEP 19
+/*
+let x = 20
+x *= 20
+console.log("The result is:", x)
+/*
+
+//STEP 20
+/*
+let x = 20 % 3
+x /= 1
+console.log("The result is:", x)
+/*
+
+//STEP 21
+/*
+let x = 5
+let y = 10
+let result = x <= y
+console.log("The result is:", result)
+/*
+
+//STEP 22
+/*
+let x = 5
+let y = 10
+let result = x == y
+console.log("The result is:", result)
+/*
