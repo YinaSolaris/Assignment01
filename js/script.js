@@ -46,13 +46,15 @@ let firstName = 'Yinan', lastName = 'Zhan', state = 'California'
 //STEP 6
 /*
 let yearsLiving = 1
-alert('Yina has been living in SanDiego for ' + yearsLiving + ' years.')
+let stringValue = 'years'
+let result = yearsLiving + stringValue
+console.log(result)
 /*
 
 //STEP 7
 /*
 let boolValue = true
-let strValue = 'Good Morning!'
+let stringValue = 'Good Morning!'
 let result1 = boolValue + strValue
 console.log(result1)
 let numberValue = 17
@@ -62,7 +64,24 @@ console.log(result2)
 /*
 
 //STEP 8
+/*
 let someString = "Who once said, 'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'"
 console.log(someString)
+/*
+
+//STEP 9
+/*
+let nullVariable = null
+let undefinedVariable
+console.log('nullVariable:', nullVariable)
+console.log('undefinedVariable:', undefinedVariable)
+/*
+
+//STEP 10
+console.log(typeof "Hello")
+console.log(typeof 17)
+console.log(typeof true)
+console.log(typeof { key: "value" })
+console.log(typeof undefined)
 
 
