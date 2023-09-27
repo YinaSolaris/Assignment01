@@ -78,10 +78,65 @@ console.log('undefinedVariable:', undefinedVariable)
 /*
 
 //STEP 10
+/*
 console.log(typeof "Hello")
 console.log(typeof 17)
 console.log(typeof true)
 console.log(typeof { key: "value" })
 console.log(typeof undefined)
+/*
 
+//STEP 11
+/*
+let yourName = "Zak Ruvalcaba"
+let message = "Hello " + yourName + ", welcome to the JavaScript class!"
+alert(message)
+/*
+
+//STEP 12
+/*
+let name = "Yinan Zhan"
+let message = "Hello " + name + ", welcome to the JavaScript class!"
+alert(message)
+/*
+
+//STEP 13
+/*
+let name = "Yinan Zhan"
+let course = "JavaScript"
+let message = "Hello " + name + ", welcome to the " + course + " class!"
+alert(message)
+/*
+
+//STEP 14
+/*
+let name = "Zak Ruvalcaba"
+let course = "JavaScript"
+let message = "Hello" + name + ".\nWelcome to the " + course + " class!"
+alert(message)
+/*
+
+//STEP 15
+/*
+let name = prompt("Please enter your name:")
+let course = "JavaScript"
+let message = "Hello" + name + ".\nWelcome to the " + course + " class!"
+alert(message)
+/*
+
+//STEP 16
+/*
+let name = prompt("Please enter your name:")
+let course = prompt("Please enter the class you are taking:")
+let message = "Hello" + name + ".\nWelcome to the " + course + " class!"
+alert(message)
+/*
+
+//STEP 17
+/*
+let x = 10
+let y = 20
+let sum = x + y
+console.log("The sum of", x, "and", y, "is", sum)
+/*
 
